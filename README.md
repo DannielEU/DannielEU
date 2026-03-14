@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a software engineering student at Escuela Colombiana de Ingeniería Julio Garavito, based in Bogotá, Colombia. I enjoy building systems that solve real problems — currently working on ECIWISE+, an intelligent medical triage platform designed for the Colombian healthcare context.<br><br>I'm a collaborative team player who thrives in fast-paced academic environments, managing multiple projects simultaneously while keeping attention to detail. I communicate clearly, adapt quickly to new technologies, and take ownership of my work from architecture decisions to deployment.<br><br>Always curious, always learning.
+I'm a software engineering student at Escuela Colombiana de Ingeniería Julio Garavito, based in Bogotá, Colombia. I enjoy building systems that solve real problems — currently working on ECIWISE+, RHAPTOR, MINISPRINGBOOT, ASCLEPIO an intelligent medical triage platform designed for the Colombian healthcare context.<br><br>I'm a collaborative team player who thrives in fast-paced academic environments, managing multiple projects simultaneously while keeping attention to detail. I communicate clearly, adapt quickly to new technologies, and take ownership of my work from architecture decisions to deployment.<br><br>Always curious, always learning.
 
 
 ## 🌐 Socials:
